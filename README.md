@@ -1,10 +1,4 @@
-﻿# Ecoomerce-EJS
-
-
-All rights reserved. The code and user interface (UI) designs in this repository are the intellectual property of Wasi Uddin and may not be copied, modified, or distributed without explicit permission.
-
-Permission is hereby granted to view and use the code for educational and reference purposes only. Any unauthorized use, reproduction, or distribution is strictly prohibited and may result in legal action.
-
-For inquiries regarding licensing or use permissions
-
-Thank you for respecting the intellectual property rights of this repository.
+hii! This is Yashika.
+I have made a E-Commerece website for shopping everyday goods at ease of your home and with online payment availability.
+https://shoppingwebsite-o5j1.onrender.com
+above is the deployed link of my website
